@@ -8,7 +8,7 @@ public class Example {
 
 	@RequestMapping("/")
 	String home() {
-		return "This is Demo !";
+		return "This is DevOps Demo !";
 	}
 
 	public static void main(String[] args) {
